@@ -1,0 +1,3 @@
+{"level":"fatal","ts":"2022-04-15T16:46:11.270+0800","caller":"shoppayment/main.go:70","msg":"error loading source consul: source not found: /micro/config","serviceName":"ShopPayment"}
+{"level":"fatal","ts":"2022-04-15T16:50:08.185+0800","caller":"shoppayment/main.go:92","msg":"dial tcp 172.21.222.223:3306: connect: connection timed out","serviceName":"ShopPayment"}
+{"level":"fatal","ts":"2022-04-15T16:53:17.625+0800","caller":"shoppayment/main.go:92","msg":"dial tcp 172.21.222.223:3306: connect: connection timed out","serviceName":"ShopPayment"}
