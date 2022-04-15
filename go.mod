@@ -27,4 +27,4 @@ require (
 // see https://github.com/etcd-io/etcd/issues/11154 and https://github.com/etcd-io/etcd/issues/11931.
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
-replace github.com/wsjcko/shoppayment => ../shoppayment
+replace github.com/wsjcko/shoppayment => github.com/wsjcko/shoppayment v1.0.0
